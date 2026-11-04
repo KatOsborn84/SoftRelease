@@ -1,0 +1,5 @@
+BroodYear,Species,RecapDate,Region,SubRegion,EC_Recap,WaterTempRecap,Turbidity_NTU_Recap,Turbidity_FNU_Recap,LatitudeR,LongitudeR,Turbidity,weekturb,FirstFlush,FFyn,ForkLength,LifeStage,Latitude,Longitude,Mark,MarkCode,ReleaseEvent,ReleaseDate,ReleaseSite,ReleaseMethod,Method2
+2023,Delta Smelt,,,,,,,,,,,,,,,Adult,38.124736,-121.699521,RV releases,,,,Rio Vista,Release Site,Release Site
+2022,Delta Smelt,,,,,,,,,,,,,,,Adult,38.18576,-121.969,BL releases,,,,Belden's Landing,Release Site,Release Site
+2022,Delta Smelt,,,,,,,,,,,,,,,Adult,38.275563,-121.661374,SDWSC releases,,,,SDWSC,Release Site,Release Site
+All,Delta Smelt,,,,,,,,,,,,,,,All,37.82391,-121.5955,UCD FCCL,,,,UCD FCCL,Rearing site,Rearing site
